@@ -8,22 +8,20 @@ I love creating amazing web applications with modern technologies. 💻
 
 ## 🎓 Education
 
-- I studied software development at SENA, a public technical education institution in Colombia. 🎓
-- I studied web development at Platzi, an online education platform for Latin America. 🚀
-- I'm currently studying software engineering at INSTITUCION UNIVERSITARIA PASCUAL BRAVO, a public university in Medellín. 📚
+- I studied Software Development at SENA, a public technical education institution in Colombia. 🎓
+- I’ve been studying Software Development (frontend, backend, Git, databases, data analysis...) at Platzi for almost three years now. It’s an online education platform for Latin America. 🚀
+- I'm currently studying Software Engineering at Institución Universitaria Pascual Bravo, a public university in Medellín. 📚
 
 ## 💻 Projects
 
-- I've created projects using Vue.js and Quasar Framework, a high-performance full-stack web development framework based on Vue.js. 🌟
-- You can check out some of my projects on my GitHub profile. 🙌🏼
+I've created projects mainly using Vue.js for the frontend, along with the Quasar Framework and Element Plus as component libraries. On the backend, I've worked with Google Firebase and PHP with Laravel. I'm currently working privately on a WhatsApp API project using Node.js with Express. 🌟
 
 ## 📚 Learning
 
-- I'm currently learning PHP with Laravel and Symfony, two popular web development frameworks for PHP. 🐘
+- I'm currently learning Express js, a popular web development frameworks for Node js. 🐘
 - I'm also interested in learning more about:
 
   - React, ⚛️
-  - Node.js 🟢
   - MongoDB 🍃
 
 ## 📫 Contact
