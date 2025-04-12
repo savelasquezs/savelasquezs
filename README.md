@@ -1,10 +1,8 @@
-### Hi there 👋
-
 # 👋🏼 Hi, I'm Santiago Velásquez
 
 I'm a  web developer from Medellín, Colombia.
 
-I love creating amazing web applications with modern technologies. 💻
+I love creating creative and beautiful solutions . 💻
 
 ## 🎓 Education
 
